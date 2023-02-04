@@ -4,7 +4,7 @@
 }
 .layout{
     margin: 0 auto;
-    max-width: 2100px;
+    max-width: 7500%;
     text-decoration: none;
 }
 .container{
@@ -76,7 +76,7 @@ li a:hover{
     color: white;
 }
 .seo{
-    width: 400px;
+    width: 2500%;
     height: 400px;
     margin-left: 250px;
     
@@ -104,7 +104,7 @@ li a:hover{
     font-size:larger;
 }
 .digiline{
-    width: 50px;
+    width: 312.5%;
     height: 2px;
     background-color: #fd654d;
     margin-left: 30px;
@@ -128,7 +128,7 @@ li a:hover{
     text-align: center;
 }
 .line{
-    width: 50px;
+    width: 312.5%;
     height: 2px;
     background-color: #fd654d;
     margin-left: 650px;
